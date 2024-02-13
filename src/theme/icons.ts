@@ -1,0 +1,12 @@
+export {default as LogoIcon} from '../../assets/logo.png';
+export {default as LoginIcon} from '../../assets/images/login.png';
+export {default as IndiaFlagIcon} from '../../assets/indiaFlag.png';
+export {default as DropDownIcon} from '../../assets/dropDown/arrow_down_small.png';
+export {default as WhatsAppIcon} from '../../assets/whatsapp.png';
+export {default as BannerImage} from '../../assets/images/banner.png';
+export {default as SmallVansIcons} from '../../assets/images/small_vans.png';
+export {default as ThreeWheelerIcon} from '../../assets/images/three_wheeler.png';
+export {default as TwoWheelerIcon} from '../../assets/images/two_wheeler.png';
+export {default as RealTimeTrackingLeftIcon} from '../../assets/images/real_time_tracking_left.png';
+export {default as RealTimeTrackingRightIcon} from '../../assets/images/real_time_tracking_right.png';
+export {default as FasterDeliveryIcon} from '../../assets/images/faster_delivery.png';
